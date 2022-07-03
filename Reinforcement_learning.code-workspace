@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\models"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\Javi\\anaconda3\\envs\\kaggle_ballena\\python.exe"
+	}
+}
