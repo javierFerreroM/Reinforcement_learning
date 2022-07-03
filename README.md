@@ -2,6 +2,20 @@
 
 Reinforcement learning from Gym library
 
+Buenas a todos,
+
+Por si alguien no me recuerda, soy Raul Casaña, impartí la parte de Deep Reinforcement Learning dentro del módulo de RL, y voy a ser el encargado de evaluar el módulo entero.
+
+En este correo os presento (ver más abajo) como va a ser la evaluación del módulo de RL.
+
+Las entregas me las podeis enviar a este mismo correo o preferiblemente a mi correo personal que veo mas frecuentemente (raulcasana@gmail.com).
+
+Las dudas que surjan también me las podeis comentar por correo.
+
+Espero que vaya bien y ya me vais contando.
+
+
+
 # Decription
 RL:
 Objetivo principal:
